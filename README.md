@@ -10,3 +10,4 @@ test.c Simple TestFile
 Project Build using CMAKE:
 $cmake --build "dir name"
 ./hy457_crypto is the executable
+ .
